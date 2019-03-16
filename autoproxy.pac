@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2019-03-16 03:00:02
- * GFWList Last-Modified: 2019-03-04 11:23:00
+ * Generated: 2019-03-16 12:00:02
+ * GFWList Last-Modified: 2019-03-16 05:05:00
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -234,6 +234,7 @@ var rules = [
             "abebooks.com", 
             "ablwang.com", 
             "aboluowang.com", 
+            "about.google", 
             "aboutgfw.com", 
             "abs.edu", 
             "accim.org", 
@@ -365,6 +366,7 @@ var rules = [
             "anonymise.us", 
             "anonymitynetwork.com", 
             "anonymizer.com", 
+            "anonymouse.org", 
             "anpopo.com", 
             "answering-islam.org", 
             "antd.org", 
@@ -1824,6 +1826,7 @@ var rules = [
             "geocities.jp", 
             "gerefoundation.org", 
             "get.app", 
+            "get.dev", 
             "get.how", 
             "get.page", 
             "getastrill.com", 
@@ -2036,6 +2039,7 @@ var rules = [
             "google.cv", 
             "google.cz", 
             "google.de", 
+            "google.dev", 
             "google.dj", 
             "google.dk", 
             "google.dm", 
@@ -2799,6 +2803,7 @@ var rules = [
             "kink.com", 
             "kinmen.org.tw", 
             "kinmen.travel", 
+            "kinokuniya.com", 
             "kir.jp", 
             "kissbbao.cn", 
             "kiwi.kz", 
@@ -3776,6 +3781,7 @@ var rules = [
             "prestige-av.com", 
             "pride.google", 
             "printfriendly.com", 
+            "prism-break.org", 
             "prisoneralert.com", 
             "pritunl.com", 
             "privacybox.de", 
@@ -4516,6 +4522,7 @@ var rules = [
             "terminus2049.github.io", 
             "tew.org", 
             "textnow.me", 
+            "tfhub.dev", 
             "thaicn.com", 
             "thb.gov.tw", 
             "theatrum-belli.com", 
