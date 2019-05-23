@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2019-05-22 21:00:14
- * GFWList Last-Modified: 2019-04-29 10:36:52
+ * Generated: 2019-05-23 00:00:08
+ * GFWList Last-Modified: 2019-05-22 23:32:18
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -891,6 +891,7 @@ var rules = [
             "chinalawtranslate.com", 
             "chinamule.com", 
             "chinamz.org", 
+            "chinanewscenter.com", 
             "chinapost.com.tw", 
             "chinapress.com.my", 
             "chinarightsia.org", 
@@ -3692,6 +3693,7 @@ var rules = [
             "pinkrod.com", 
             "pinoy-n.com", 
             "pinterest.at", 
+            "pinterest.ca", 
             "pinterest.co.kr", 
             "pinterest.co.uk", 
             "pinterest.com", 
@@ -3722,6 +3724,7 @@ var rules = [
             "plm.org.hk", 
             "plunder.com", 
             "plurk.com", 
+            "plus.codes", 
             "plus28.com", 
             "plusbb.com", 
             "pmatehunter.com", 
@@ -3769,6 +3772,7 @@ var rules = [
             "post852.com", 
             "postadult.com", 
             "postimg.org", 
+            "potato.im", 
             "potvpn.com", 
             "power.com", 
             "powerapple.com", 
@@ -4754,7 +4758,6 @@ var rules = [
             "tsquare.tv", 
             "tsu.org.tw", 
             "tsunagarumon.com", 
-            "tt-rss.org", 
             "tt1069.com", 
             "tttan.com", 
             "ttv.com.tw", 
