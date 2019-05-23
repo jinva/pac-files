@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2019-05-23 00:00:08
- * GFWList Last-Modified: 2019-05-22 23:32:18
+ * Generated: 2019-05-23 09:00:02
+ * GFWList Last-Modified: 2019-05-23 00:27:18
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -223,6 +223,7 @@ var rules = [
             "99cn.info", 
             "9bis.com", 
             "9bis.net", 
+            "9gag.com", 
             "a-normal-day.com", 
             "a5.com.ru", 
             "aamacau.com", 
@@ -329,6 +330,7 @@ var rules = [
             "amazon.co.jp", 
             "amazon.com", 
             "ameblo.jp", 
+            "america.gov", 
             "american.edu", 
             "americangreencard.com", 
             "americanunfinished.com", 
@@ -2733,6 +2735,7 @@ var rules = [
             "joyourself.com", 
             "jpopforum.net", 
             "jqueryui.com", 
+            "jshell.net", 
             "jtvnw.net", 
             "jubushoushen.com", 
             "juhuaren.com", 
@@ -2909,6 +2912,7 @@ var rules = [
             "lidecheng.com", 
             "lifemiles.com", 
             "lighten.org.tw", 
+            "lighti.me", 
             "lightnovel.cn", 
             "lihkg.com", 
             "like.com", 
