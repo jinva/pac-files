@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2019-07-14 12:00:03
- * GFWList Last-Modified: 2019-05-23 00:27:18
+ * Generated: 2019-07-15 18:00:36
+ * GFWList Last-Modified: 2019-07-15 07:40:46
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -720,6 +720,7 @@ var rules = [
             "busayari.com", 
             "businessinsider.com", 
             "businessinsider.com.au", 
+            "businesstoday.com.tw", 
             "businessweek.com", 
             "busu.org", 
             "busytrade.com", 
@@ -1237,6 +1238,7 @@ var rules = [
             "dmm.com", 
             "dns-dns.com", 
             "dns-stuff.com", 
+            "dns.google", 
             "dns04.com", 
             "dns05.com", 
             "dns1.us", 
@@ -1404,6 +1406,7 @@ var rules = [
             "emulefans.com", 
             "emuparadise.me", 
             "enanyang.my", 
+            "encyclopedia.com", 
             "enewstree.com", 
             "enfal.de", 
             "engadget.com", 
