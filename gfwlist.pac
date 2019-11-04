@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2019-11-03 21:00:03
- * GFWList Last-Modified: 2019-10-28 11:52:22
+ * Generated: 2019-11-04 00:00:04
+ * GFWList Last-Modified: 2019-11-03 22:06:19
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1252,6 +1252,7 @@ var rules = [
             "dnssec.net", 
             "dnvod.tv", 
             "doctorvoice.org", 
+            "documentingreality.com", 
             "dogfartnetwork.com", 
             "dojin.com", 
             "dok-forum.net", 
@@ -2219,6 +2220,7 @@ var rules = [
             "guancha.org", 
             "guaneryu.com", 
             "guangming.com.my", 
+            "guangnianvpn.com", 
             "guardster.com", 
             "guishan.org", 
             "gumroad.com", 
@@ -2921,6 +2923,7 @@ var rules = [
             "lighten.org.tw", 
             "lighti.me", 
             "lightnovel.cn", 
+            "lightyearvpn.com", 
             "lihkg.com", 
             "like.com", 
             "limiao.net", 
