@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2019-11-04 15:00:03
- * GFWList Last-Modified: 2019-11-03 22:06:19
+ * Generated: 2019-11-05 15:00:07
+ * GFWList Last-Modified: 2019-11-05 00:21:47
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -202,6 +202,7 @@ var rules = [
             "666kb.com", 
             "6park.com", 
             "6parker.com", 
+            "6parknews.com", 
             "7capture.com", 
             "7cow.com", 
             "8-d.com", 
@@ -470,6 +471,7 @@ var rules = [
             "avdb.in", 
             "avdb.tv", 
             "avfantasy.com", 
+            "avg.com", 
             "avgle.com", 
             "avidemux.org", 
             "avmo.pw", 
@@ -1593,6 +1595,7 @@ var rules = [
             "fdc89.jp", 
             "feedburner.com", 
             "feedly.com", 
+            "feedx.net", 
             "feelssh.com", 
             "feer.com", 
             "feifeiss.com", 
@@ -2258,6 +2261,7 @@ var rules = [
             "hahlo.com", 
             "hakkatv.org.tw", 
             "handcraftedsoftware.org", 
+            "hanime.tv", 
             "hanminzu.org", 
             "hanunyi.com", 
             "hao.news", 
@@ -3895,6 +3899,7 @@ var rules = [
             "qvodzy.org", 
             "qx.net", 
             "qxbbs.org", 
+            "qz.com", 
             "r18.com", 
             "ra.gg", 
             "radicalparty.org", 
@@ -5182,6 +5187,7 @@ var rules = [
             "warehouse333.com", 
             "waselpro.com", 
             "washeng.net", 
+            "washingtonpost.com", 
             "watch8x.com", 
             "watchinese.com", 
             "watchmygf.net", 
