@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2020-07-18 18:00:22
- * GFWList Last-Modified: 2020-07-18 06:16:42
+ * Generated: 2020-07-19 15:00:17
+ * GFWList Last-Modified: 2020-07-19 08:17:45
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2779,6 +2779,7 @@ var rules = [
             "jyxf.net", 
             "k-doujin.net", 
             "ka-wai.com", 
+            "kadokawa.co.jp", 
             "kagyu.org", 
             "kagyu.org.za", 
             "kagyumonlam.org", 
