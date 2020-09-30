@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2020-09-23 00:00:02
- * GFWList Last-Modified: 2020-09-20 02:37:23
+ * Generated: 2020-10-01 03:00:07
+ * GFWList Last-Modified: 2020-09-23 21:57:31
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3346,6 +3346,7 @@ var rules = [
             "nat.moe", 
             "natado.com", 
             "national-lottery.co.uk", 
+            "nationalawakening.org", 
             "nationalgeographic.com", 
             "nationsonline.org", 
             "nationwide.com", 
