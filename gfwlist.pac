@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2020-10-08 21:00:06
- * GFWList Last-Modified: 2020-10-07 23:56:33
+ * Generated: 2020-10-09 09:00:02
+ * GFWList Last-Modified: 2020-10-08 22:37:39
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -305,6 +305,7 @@ var rules = [
             "alicejapan.co.jp", 
             "aliengu.com", 
             "alkasir.com", 
+            "all4mom.org", 
             "allcoin.com", 
             "allconnected.co", 
             "alldrawnsex.com", 
@@ -766,6 +767,7 @@ var rules = [
             "cam4.jp", 
             "cam4.sg", 
             "camfrog.com", 
+            "campaignforuyghurs.org", 
             "cams.com", 
             "cams.org.sg", 
             "canadameet.com", 
@@ -1716,6 +1718,7 @@ var rules = [
             "freegao.com", 
             "freehongkong.org", 
             "freeilhamtohti.org", 
+            "freekazakhs.org", 
             "freekwonpyong.org", 
             "freelotto.com", 
             "freeman2.com", 
@@ -2308,6 +2311,7 @@ var rules = [
             "helpeachpeople.com", 
             "helplinfen.com", 
             "helpster.de", 
+            "helpuyghursnow.org", 
             "helpzhuling.org", 
             "hentai.to", 
             "hentaitube.tv", 
@@ -2561,6 +2565,7 @@ var rules = [
             "iicns.com", 
             "ikstar.com", 
             "ikwb.com", 
+            "ilhamtohtiinstitute.org", 
             "illusionfactory.com", 
             "ilove80.be", 
             "ilovelongtoes.com", 
@@ -4376,6 +4381,7 @@ var rules = [
             "stackoverflow.com", 
             "stage64.hk", 
             "standupfortibet.org", 
+            "standwithhk.org", 
             "stanford.edu", 
             "starfishfx.com", 
             "starp2p.com", 
@@ -4635,7 +4641,6 @@ var rules = [
             "tibet-envoy.eu", 
             "tibet-foundation.org", 
             "tibet-house-trust.co.uk", 
-            "tibet-info.net", 
             "tibet-initiative.de", 
             "tibet-munich.de", 
             "tibet.a.se", 
@@ -4840,6 +4845,7 @@ var rules = [
             "turbobit.net", 
             "turbohide.com", 
             "turbotwitter.com", 
+            "turkistantimes.com", 
             "turntable.fm", 
             "tushycash.com", 
             "tutanota.com", 
