@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2020-11-12 21:00:02
- * GFWList Last-Modified: 2020-10-21 00:11:38
+ * Generated: 2020-11-14 00:00:01
+ * GFWList Last-Modified: 2020-11-13 22:48:07
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3662,6 +3662,7 @@ var rules = [
             "paradisehill.cc", 
             "paradisepoker.com", 
             "parkansky.com", 
+            "parler.com", 
             "parsevideo.com", 
             "partycasino.com", 
             "partypoker.com", 
