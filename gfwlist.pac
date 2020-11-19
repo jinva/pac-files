@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2020-11-18 21:00:02
- * GFWList Last-Modified: 2020-11-13 22:48:07
+ * Generated: 2020-11-19 09:00:02
+ * GFWList Last-Modified: 2020-11-19 08:49:59
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -400,7 +400,7 @@ var rules = [
             "apiary.io", 
             "apigee.com", 
             "apk-dl.com", 
-            "apkdler.com", 
+            "apkcombo.com", 
             "apkmirror.com", 
             "apkmonk.com", 
             "apkplz.com", 
