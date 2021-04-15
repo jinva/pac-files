@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2021-04-15 21:00:07
- * GFWList Last-Modified: 2020-12-26 00:34:23
+ * Generated: 2021-04-16 00:00:05
+ * GFWList Last-Modified: 2021-04-15 23:51:59
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -799,6 +799,7 @@ var rules = [
             "catholic.org.hk", 
             "catholic.org.tw", 
             "cathvoice.org.tw", 
+            "cato.org", 
             "cattt.com", 
             "cbc.ca", 
             "cbsnews.com", 
@@ -1883,6 +1884,7 @@ var rules = [
             "gfw.press", 
             "ggpht.com", 
             "ggssl.com", 
+            "ghidra-sre.org", 
             "ghostpath.com", 
             "ghut.org", 
             "giantessnight.com", 
@@ -2765,6 +2767,7 @@ var rules = [
             "joachims.org", 
             "jobso.tv", 
             "joinbbs.net", 
+            "joinclubhouse.com", 
             "joinmastodon.org", 
             "joins.com", 
             "journalchretien.net", 
@@ -3226,6 +3229,7 @@ var rules = [
             "mog.com", 
             "mohu.club", 
             "mohu.ml", 
+            "mohu.rocks", 
             "mojim.com", 
             "mol.gov.tw", 
             "molihua.org", 
@@ -3421,6 +3425,7 @@ var rules = [
             "newstarnet.com", 
             "newtaiwan.com.tw", 
             "newtalk.tw", 
+            "newyorker.com", 
             "newyorktimes.com", 
             "nexon.com", 
             "next11.co.jp", 
@@ -4391,6 +4396,7 @@ var rules = [
             "ssr.tools", 
             "ssrshare.com", 
             "sss.camp", 
+            "sstm.moe", 
             "sstmlt.moe", 
             "sstmlt.net", 
             "stackoverflow.com", 
@@ -4596,6 +4602,7 @@ var rules = [
             "tfhub.dev", 
             "thaicn.com", 
             "thb.gov.tw", 
+            "theatlantic.com", 
             "theatrum-belli.com", 
             "thebcomplex.com", 
             "theblemish.com", 
