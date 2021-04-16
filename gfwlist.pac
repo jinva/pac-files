@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2021-04-16 21:00:03
- * GFWList Last-Modified: 2021-04-15 23:51:59
+ * Generated: 2021-04-17 00:00:03
+ * GFWList Last-Modified: 2021-04-16 23:57:01
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -856,7 +856,7 @@ var rules = [
             "changeip.org", 
             "changp.com", 
             "changsa.net", 
-            "channel8news.sg", 
+            "channelnewsasia.com", 
             "chaoex.com", 
             "chapm25.com", 
             "chatnook.com", 
@@ -1209,6 +1209,8 @@ var rules = [
             "dessci.com", 
             "destroy-china.jp", 
             "deutsche-welle.de", 
+            "deviantart.com", 
+            "deviantart.net", 
             "devio.us", 
             "devpn.com", 
             "dfas.mil", 
@@ -1804,6 +1806,7 @@ var rules = [
             "g.co", 
             "g0v.social", 
             "g6hentai.com", 
+            "gab.com", 
             "gabocorp.com", 
             "gaeproxy.com", 
             "gaforum.org", 
@@ -2493,7 +2496,6 @@ var rules = [
             "hulkshare.com", 
             "hulu.com", 
             "huluim.com", 
-            "humanrightsbriefing.org", 
             "hung-ya.com", 
             "hungerstrikeforaids.org", 
             "huobi.com", 
@@ -2932,6 +2934,7 @@ var rules = [
             "lematin.ch", 
             "lemonde.fr", 
             "lenwhite.com", 
+            "leorockwell.com", 
             "lerosua.org", 
             "lers.google", 
             "lesoir.be", 
@@ -3133,6 +3136,7 @@ var rules = [
             "memri.org", 
             "memrijttm.org", 
             "mercatox.com", 
+            "mercdn.net", 
             "mercyprophet.org", 
             "mergersandinquisitions.org", 
             "meridian-trust.org", 
@@ -3150,6 +3154,7 @@ var rules = [
             "metrohk.com.hk", 
             "metrolife.ca", 
             "metroradio.com.hk", 
+            "mewe.com", 
             "meyou.jp", 
             "meyul.com", 
             "mfxmedia.com", 
@@ -3388,6 +3393,7 @@ var rules = [
             "ned.org", 
             "nekoslovakia.net", 
             "neo-miracle.com", 
+            "neowin.net", 
             "nepusoku.com", 
             "nesnode.com", 
             "net-fits.pro", 
@@ -4057,7 +4063,9 @@ var rules = [
             "rocketbbs.com", 
             "rocksdb.org", 
             "rojo.com", 
+            "rolfoundation.org", 
             "rolia.net", 
+            "rolsociety.org", 
             "ronjoneswriter.com", 
             "roodo.com", 
             "rosechina.net", 
@@ -5086,6 +5094,7 @@ var rules = [
             "uygur.org", 
             "uymaarip.com", 
             "v2ex.com", 
+            "v2fly.org", 
             "v2ray.com", 
             "van001.com", 
             "van698.com", 
@@ -5472,6 +5481,7 @@ var rules = [
             "xuite.net", 
             "xuzhiyong.net", 
             "xvideo.cc", 
+            "xvideos-cdn.com", 
             "xvideos.com", 
             "xvideos.es", 
             "xxbbx.com", 
