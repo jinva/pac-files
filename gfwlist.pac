@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2021-04-19 21:00:03
- * GFWList Last-Modified: 2021-04-19 10:29:25
+ * Generated: 2021-04-20 00:00:09
+ * GFWList Last-Modified: 2021-04-19 21:12:05
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -246,6 +246,7 @@ var rules = [
             "aboutgfw.com", 
             "abs.edu", 
             "accim.org", 
+            "accountkit.com", 
             "aceros-de-hispania.com", 
             "acevpn.com", 
             "acg18.me", 
@@ -1006,6 +1007,7 @@ var rules = [
             "clipfish.de", 
             "cloakpoint.com", 
             "club1069.com", 
+            "clubhouseapi.com", 
             "clyp.it", 
             "cmcn.org", 
             "cmi.org.tw", 
@@ -1538,6 +1540,7 @@ var rules = [
             "ezpc.tk", 
             "ezpeer.com", 
             "ezua.com", 
+            "f8.com", 
             "fa.gov.tw", 
             "facebook.br", 
             "facebook.com", 
@@ -3723,6 +3726,7 @@ var rules = [
             "paradisepoker.com", 
             "parkansky.com", 
             "parler.com", 
+            "parse.com", 
             "parsevideo.com", 
             "partycasino.com", 
             "partypoker.com", 
