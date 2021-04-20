@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2021-04-20 12:00:03
- * GFWList Last-Modified: 2021-04-20 11:22:30
+ * Generated: 2021-04-20 15:00:03
+ * GFWList Last-Modified: 2021-04-20 12:44:11
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -203,6 +203,7 @@ var rules = [
             "64wiki.com", 
             "66.ca", 
             "666kb.com", 
+            "6do.news", 
             "6park.com", 
             "6parkbbs.com", 
             "6parker.com", 
@@ -977,7 +978,6 @@ var rules = [
             "chuang-yen.org", 
             "chubold.com", 
             "chubun.com", 
-            "chuizi.net", 
             "churchinhongkong.org", 
             "chushigangdrug.ch", 
             "cienen.com", 
@@ -1015,6 +1015,7 @@ var rules = [
             "clinica-tibet.ru", 
             "clipfish.de", 
             "cloakpoint.com", 
+            "cloudcone.com", 
             "club1069.com", 
             "clubhouseapi.com", 
             "clyp.it", 
@@ -1716,7 +1717,6 @@ var rules = [
             "fofldfradio.org", 
             "foolsmountain.com", 
             "fooooo.com", 
-            "footwiball.com", 
             "foreignpolicy.com", 
             "forum4hk.com", 
             "forums-free.com", 
@@ -3455,6 +3455,7 @@ var rules = [
             "nbtvpn.com", 
             "nccwatch.org.tw", 
             "nch.com.tw", 
+            "nchrd.org", 
             "ncn.org", 
             "ncol.com", 
             "nde.de", 
@@ -3540,6 +3541,7 @@ var rules = [
             "njactb.org", 
             "njuice.com", 
             "nlfreevpn.com", 
+            "nnews.eu", 
             "no-ip.com", 
             "no-ip.org", 
             "nobel.se", 
@@ -3587,6 +3589,7 @@ var rules = [
             "ntdtv.ca", 
             "ntdtv.co.kr", 
             "ntdtv.com", 
+            "ntdtv.com.tw", 
             "ntdtv.cz", 
             "ntdtv.org", 
             "ntdtv.ru", 
@@ -4301,6 +4304,7 @@ var rules = [
             "shenyunperformingarts.org", 
             "shenyunshop.com", 
             "shenzhoufilm.com", 
+            "shenzhouzhengdao.org", 
             "sherabgyaltsen.com", 
             "shiatv.net", 
             "shicheng.org", 
