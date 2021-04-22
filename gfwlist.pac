@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2021-04-22 00:00:07
- * GFWList Last-Modified: 2021-04-21 09:32:35
+ * Generated: 2021-04-22 15:00:06
+ * GFWList Last-Modified: 2021-04-22 08:23:05
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -458,6 +458,7 @@ var rules = [
             "asg.to", 
             "asia-gaming.com", 
             "asiaharvest.org", 
+            "asianage.com", 
             "asianews.it", 
             "asianfreeforum.com", 
             "asiansexdiary.com", 
@@ -879,6 +880,7 @@ var rules = [
             "certificate-transparency.org", 
             "cfhks.org.hk", 
             "cfos.de", 
+            "cfr.org", 
             "cftfc.com", 
             "cgdepot.org", 
             "cgst.edu", 
@@ -4633,6 +4635,7 @@ var rules = [
             "summify.com", 
             "sumrando.com", 
             "sun1911.com", 
+            "sundayguardianlive.com", 
             "sunmedia.ca", 
             "sunporno.com", 
             "sunskyforum.com", 
@@ -5705,6 +5708,7 @@ var rules = [
             "yam.com", 
             "yam.org.tw", 
             "yande.re", 
+            "yandex.com", 
             "yanghengjun.com", 
             "yangjianli.com", 
             "yasni.co.uk", 
