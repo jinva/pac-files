@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2021-04-23 00:00:05
- * GFWList Last-Modified: 2021-04-22 08:23:05
+ * Generated: 2021-04-23 15:00:03
+ * GFWList Last-Modified: 2021-04-23 08:59:42
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1945,6 +1945,7 @@ var rules = [
             "getiton.com", 
             "getjetso.com", 
             "getlantern.org", 
+            "getmalus.com", 
             "getmdl.io", 
             "getoutline.org", 
             "getsocialscope.com", 
@@ -3781,6 +3782,7 @@ var rules = [
             "overdaily.org", 
             "overplay.net", 
             "ovi.com", 
+            "ovpn.com", 
             "ow.ly", 
             "owind.com", 
             "owl.li", 
@@ -3926,6 +3928,7 @@ var rules = [
             "playno1.com", 
             "playpcesor.com", 
             "plays.com.tw", 
+            "plexvpn.pro", 
             "plixi.com", 
             "plm.org.hk", 
             "plunder.com", 
