@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2021-04-26 21:00:03
- * GFWList Last-Modified: 2021-04-23 08:59:42
+ * Generated: 2021-04-27 15:00:03
+ * GFWList Last-Modified: 2021-04-26 23:33:00
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -106,6 +106,7 @@ var rules = [
             "zhongsou.com"
         ], 
         [
+            "000webhost.com", 
             "030buy.com", 
             "0rz.tw", 
             "1-apple.com.tw", 
@@ -264,6 +265,7 @@ var rules = [
             "aculo.us", 
             "adcex.com", 
             "addictedtocoffee.de", 
+            "addyoutube.com", 
             "adelaidebbs.com", 
             "admob.com", 
             "adpl.org.hk", 
@@ -363,6 +365,7 @@ var rules = [
             "amoiist.com", 
             "ampproject.org", 
             "amtb-taipei.org", 
+            "anchor.fm", 
             "anchorfree.com", 
             "ancsconf.org", 
             "andfaraway.net", 
@@ -377,7 +380,6 @@ var rules = [
             "angola.org", 
             "angularjs.org", 
             "animecrazy.net", 
-            "animeshippuuden.com", 
             "aniscartujo.com", 
             "annatam.com", 
             "anobii.com", 
@@ -1237,8 +1239,8 @@ var rules = [
             "ddns.net", 
             "ddns.us", 
             "de-sci.org", 
+            "deadline.com", 
             "deaftone.com", 
-            "debian.org", 
             "debug.com", 
             "deck.ly", 
             "decodet.co", 
@@ -4447,6 +4449,7 @@ var rules = [
             "sjum.cn", 
             "sketchappsources.com", 
             "skimtube.com", 
+            "skk.moe", 
             "skybet.com", 
             "skyking.com.tw", 
             "skykiwi.com", 
@@ -4533,6 +4536,7 @@ var rules = [
             "soupofmedia.com", 
             "sourceforge.net", 
             "sourcewadio.com", 
+            "south-plus.org", 
             "southnews.com.tw", 
             "sowers.org.hk", 
             "sowiki.net", 
