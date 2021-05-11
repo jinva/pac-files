@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2021-05-11 00:00:03
- * GFWList Last-Modified: 2021-05-03 09:08:10
+ * Generated: 2021-05-11 12:00:04
+ * GFWList Last-Modified: 2021-05-11 03:38:51
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3519,6 +3519,7 @@ var rules = [
             "nepusoku.com", 
             "nesnode.com", 
             "net-fits.pro", 
+            "netalert.me", 
             "netbig.com", 
             "netbirds.com", 
             "netcolony.com", 
