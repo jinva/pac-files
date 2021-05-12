@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2021-05-12 00:00:05
- * GFWList Last-Modified: 2021-05-11 03:38:51
+ * Generated: 2021-05-12 12:00:03
+ * GFWList Last-Modified: 2021-05-12 03:45:12
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -5287,6 +5287,7 @@ var rules = [
             "v2ray.com", 
             "v2raycn.com", 
             "v2raytech.com", 
+            "valeursactuelles.com", 
             "van001.com", 
             "van698.com", 
             "vanemu.cn", 
