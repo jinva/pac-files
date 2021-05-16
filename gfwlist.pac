@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2021-05-16 21:00:03
- * GFWList Last-Modified: 2021-05-12 03:45:12
+ * Generated: 2021-05-17 00:00:04
+ * GFWList Last-Modified: 2021-05-16 23:18:44
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -585,6 +585,7 @@ var rules = [
             "bell.wiki", 
             "bemywife.cc", 
             "beric.me", 
+            "berlinerbericht.de", 
             "berlintwitterwall.com", 
             "berm.co.nz", 
             "bestforchina.org", 
