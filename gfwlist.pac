@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2021-06-15 21:00:03
- * GFWList Last-Modified: 2021-05-30 22:14:33
+ * Generated: 2021-06-16 00:00:03
+ * GFWList Last-Modified: 2021-06-15 22:32:45
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4998,7 +4998,9 @@ var rules = [
             "tora.to", 
             "torcn.com", 
             "torguard.net", 
+            "torlock.com", 
             "torproject.org", 
+            "torrentkitty.tv", 
             "torrentprivacy.com", 
             "torrentproject.se", 
             "torrenty.org", 
