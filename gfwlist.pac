@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2021-06-17 21:00:03
- * GFWList Last-Modified: 2021-06-15 22:32:45
+ * Generated: 2021-06-18 00:00:04
+ * GFWList Last-Modified: 2021-06-17 21:41:04
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3567,6 +3567,7 @@ var rules = [
             "newyorktimes.com", 
             "nexon.com", 
             "next11.co.jp", 
+            "nextdigital.com.hk", 
             "nextmag.com.tw", 
             "nextmedia.com", 
             "nexton-net.jp", 
