@@ -1,5 +1,5 @@
 # gfwlist.pac & tinylist.pac
 
-~~Automatically updated from [gfwlist](https://github.com/gfwlist/gfwlist) every 3 hours.
+<s>Automatically updated from [gfwlist](https://github.com/gfwlist/gfwlist) every 3 hours.</s>
 
-**The Project has been transferred to my gist**
+**The Project has been transferred to my gist.**
